@@ -1,0 +1,77 @@
+[
+  {
+    "name": "BUTTERWORTH",
+    "lat": "5.393343",
+    "lon": "100.366201"
+  },
+  {
+    "name": "BUKIT TENGAH",
+    "lat": "5.3646",
+    "lon": "100.42173"
+  },
+  {
+    "name": "BUKIT MERTAJAM",
+    "lat": "5.365998",
+    "lon": "100.447993"
+  },
+  {
+    "name": "SIMPANG AMPAT",
+    "lat": "5.28599",
+    "lon": "100.48097"
+  },
+  {
+    "name": "Nibong Tebal",
+    "lat": "5.16942",
+    "lon": "100.47965"
+  },
+  {
+    "name": "PARIT BUNTAR",
+    "lat": "5.130571",
+    "lon": "100.486575"
+  },
+  {
+    "name": "BAGAN SERAI",
+    "lat": "5.028068",
+    "lon": "100.527197"
+  },
+  {
+    "name": "KAMUNTING",
+    "lat": "4.89589",
+    "lon": "100.7191"
+  },
+  {
+    "name": "Taiping",
+    "lat": "4.852059",
+    "lon": "100.731489"
+  },
+  {
+    "name": "PADANG RENGAS",
+    "lat": "4.777932",
+    "lon": "100.857424"
+  },
+  {
+    "name": "Kuala Kangsar",
+    "lat": "4.776524",
+    "lon": "100.932601"
+  },
+  {
+    "name": "SUNGAI SIPUT",
+    "lat": "4.818757",
+    "lon": "101.071261"
+  },
+  {
+    "name": "CHEMOR",
+    "lat": "4.81887",
+    "lon": "101.0713"
+  },
+  {
+    "name": "TASEK",
+    "lat": "4.65289",
+    "lon": "101.12028"
+  },
+  {
+    "name": "IPOH",
+    "lat": "4.597526",
+    "lon": "101.07333"
+  }
+]

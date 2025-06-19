@@ -1,0 +1,452 @@
+[
+  {
+    "name": "TUMPAT",
+    "lat": "6.19899",
+    "lon": "102.167621"
+  },
+  {
+    "name": "Kampung Kok Pasir",
+    "lat": "6.16321",
+    "lon": "102.20769"
+  },
+  {
+    "name": "Wakaf Bahru",
+    "lat": "6.118313",
+    "lon": "102.200519"
+  },
+  {
+    "name": "Bunut Susu",
+    "lat": "6.09638",
+    "lon": "102.17623"
+  },
+  {
+    "name": "Pasir Mas",
+    "lat": "6.042713",
+    "lon": "102.142574"
+  },
+  {
+    "name": "Cicha Tinggi",
+    "lat": "6.0225",
+    "lon": "102.14004"
+  },
+  {
+    "name": "To' Uban",
+    "lat": "5.98236",
+    "lon": "102.11687"
+  },
+  {
+    "name": "Sungai Keladi",
+    "lat": "5.9052",
+    "lon": "102.15896"
+  },
+  {
+    "name": "Bukit Panau",
+    "lat": "5.89126",
+    "lon": "102.15727"
+  },
+  {
+    "name": "Tanah Merah",
+    "lat": "5.806077",
+    "lon": "102.146729"
+  },
+  {
+    "name": "Temangan",
+    "lat": "5.70241",
+    "lon": "102.15165"
+  },
+  {
+    "name": "Sungai Nal",
+    "lat": "5.58888",
+    "lon": "102.180094"
+  },
+  {
+    "name": "Kuala Krai",
+    "lat": "5.529884",
+    "lon": "102.202808"
+  },
+  {
+    "name": "Pahi",
+    "lat": "5.54847",
+    "lon": "102.23977"
+  },
+  {
+    "name": "Manek Urai",
+    "lat": "5.39103",
+    "lon": "102.23263"
+  },
+  {
+    "name": "Kg.Baru Sg.Mengkuang",
+    "lat": "5.38989",
+    "lon": "102.14639"
+  },
+  {
+    "name": "Ulu Temiang",
+    "lat": "5.30765",
+    "lon": "102.15629"
+  },
+  {
+    "name": "Kg Baru Bukit Abu",
+    "lat": "5.32983",
+    "lon": "102.1214"
+  },
+  {
+    "name": "Bukit Abu",
+    "lat": "5.37267",
+    "lon": "102.08513"
+  },
+  {
+    "name": "Kuala Gris",
+    "lat": "5.49379",
+    "lon": "102.08047"
+  },
+  {
+    "name": "Dabong",
+    "lat": "5.377071",
+    "lon": "102.010175"
+  },
+  {
+    "name": "Kemubu",
+    "lat": "5.35271",
+    "lon": "102.31175"
+  },
+  {
+    "name": "Sri Jaya",
+    "lat": "5.30785",
+    "lon": "102.00906"
+  },
+  {
+    "name": "Sri Mahligai",
+    "lat": "5.31332",
+    "lon": "101.77286"
+  },
+  {
+    "name": "Sri Bintang",
+    "lat": "5.160115",
+    "lon": "102.08597"
+  },
+  {
+    "name": "Sungai Tasin",
+    "lat": "5.19518",
+    "lon": "102.01353"
+  },
+  {
+    "name": "Jerek Baru",
+    "lat": "5.1739",
+    "lon": "102.00993"
+  },
+  {
+    "name": "Bertam",
+    "lat": "5.148",
+    "lon": "102.05066"
+  },
+  {
+    "name": "Bertam Baru",
+    "lat": "5.142897",
+    "lon": "102.045598"
+  },
+  {
+    "name": "Limau Kasturi",
+    "lat": "5.08019",
+    "lon": "102.06936"
+  },
+  {
+    "name": "Sungai Sirian",
+    "lat": "5.0337",
+    "lon": "102.04945"
+  },
+  {
+    "name": "Kampung Sg.Sirian",
+    "lat": "5.02507",
+    "lon": "102.03904"
+  },
+  {
+    "name": "Sungai Koyan",
+    "lat": "4.963018",
+    "lon": "102.010637"
+  },
+  {
+    "name": "Pan Malayan",
+    "lat": "4.91299",
+    "lon": "101.977"
+  },
+  {
+    "name": "Gua Musang",
+    "lat": "4.878941",
+    "lon": "101.966634"
+  },
+  {
+    "name": "LAPAN TUPAI",
+    "lat": "4.878941",
+    "lon": "101.966634"
+  },
+  {
+    "name": "Mentara Baru",
+    "lat": "4.78934",
+    "lon": "102.01179"
+  },
+  {
+    "name": "Merapoh",
+    "lat": "4.69314",
+    "lon": "102.00328"
+  },
+  {
+    "name": "Teluk Gunong",
+    "lat": "4.63526",
+    "lon": "101.99271"
+  },
+  {
+    "name": "KUBANG RUSA",
+    "lat": "4.69314",
+    "lon": "102.00328"
+  },
+  {
+    "name": "Sungai Temau",
+    "lat": "4.49778",
+    "lon": "101.9474"
+  },
+  {
+    "name": "Chegar Perah",
+    "lat": "4.49059",
+    "lon": "101.94379"
+  },
+  {
+    "name": "Aur Gading",
+    "lat": "4.44072",
+    "lon": "101.95489"
+  },
+  {
+    "name": "Dura",
+    "lat": "4.459419",
+    "lon": "101.940204"
+  },
+  {
+    "name": "Kg.Berkam",
+    "lat": "4.20116",
+    "lon": "102.05187"
+  },
+  {
+    "name": "B.Betong",
+    "lat": "4.39984",
+    "lon": "101.92368"
+  },
+  {
+    "name": "KG TELANG",
+    "lat": "4.186634",
+    "lon": "102.053791"
+  },
+  {
+    "name": "Pdg.Tungku",
+    "lat": "4.23397",
+    "lon": "101.98883"
+  },
+  {
+    "name": "KUALA LIPIS",
+    "lat": "4.186634",
+    "lon": "102.053791"
+  },
+  {
+    "name": "Krambit",
+    "lat": "4.117319",
+    "lon": "102.19952"
+  },
+  {
+    "name": "SUNGAI LIK",
+    "lat": "4.0889",
+    "lon": "102.2087"
+  },
+  {
+    "name": "Mela",
+    "lat": "4.10555",
+    "lon": "102.3154"
+  },
+  {
+    "name": "TEMBELING",
+    "lat": "4.3373",
+    "lon": "102.3006"
+  },
+  {
+    "name": "PADANG PIOL",
+    "lat": "4.0011",
+    "lon": "102.4022"
+  },
+  {
+    "name": "Jerantut",
+    "lat": "3.937265",
+    "lon": "102.357945"
+  },
+  {
+    "name": "JERANSONG",
+    "lat": "3.937265",
+    "lon": "102.357945"
+  },
+  {
+    "name": "Jenderak",
+    "lat": "3.807343",
+    "lon": "102.359165"
+  },
+  {
+    "name": "Kuala Krau",
+    "lat": "3.710453",
+    "lon": "102.366258"
+  },
+  {
+    "name": "SUNGAI DALAM",
+    "lat": "3.710453",
+    "lon": "102.366258"
+  },
+  {
+    "name": "Kerdau",
+    "lat": "3.577513",
+    "lon": "102.3697"
+  },
+  {
+    "name": "Mentakab",
+    "lat": "3.483896",
+    "lon": "102.343041"
+  },
+  {
+    "name": "Mengkarak",
+    "lat": "3.33114",
+    "lon": "102.418784"
+  },
+  {
+    "name": "MENTRI",
+    "lat": "3.246451",
+    "lon": "102.411322"
+  },
+  {
+    "name": "Triang",
+    "lat": "3.246451",
+    "lon": "102.411322"
+  },
+  {
+    "name": "Mengkuang",
+    "lat": "5.330575",
+    "lon": "102.203137"
+  },
+  {
+    "name": "Kemayan",
+    "lat": "3.135827",
+    "lon": "102.370571"
+  },
+  {
+    "name": "SERTING",
+    "lat": "2.810356",
+    "lon": "102.404968"
+  },
+  {
+    "name": "Bahau",
+    "lat": "2.811299",
+    "lon": "102.403595"
+  },
+  {
+    "name": "ROMPIN",
+    "lat": "2.810356",
+    "lon": "102.404968"
+  },
+  {
+    "name": "LONDAH",
+    "lat": "2.810356",
+    "lon": "102.404968"
+  },
+  {
+    "name": "Gemas",
+    "lat": "2.579606",
+    "lon": "102.611682"
+  },
+  {
+    "name": "Batu Anam",
+    "lat": "2.580443",
+    "lon": "102.702269"
+  },
+  {
+    "name": "Segamat",
+    "lat": "2.507074",
+    "lon": "102.813959"
+  },
+  {
+    "name": "Genuang",
+    "lat": "2.48837",
+    "lon": "102.88443"
+  },
+  {
+    "name": "TENANG",
+    "lat": "2.465",
+    "lon": "102.956944"
+  },
+  {
+    "name": "Labis",
+    "lat": "2.383181",
+    "lon": "103.019587"
+  },
+  {
+    "name": "Bekok",
+    "lat": "2.295713",
+    "lon": "103.129726"
+  },
+  {
+    "name": "Paloh",
+    "lat": "2.186932",
+    "lon": "103.193987"
+  },
+  {
+    "name": "Chamek",
+    "lat": "2.143042",
+    "lon": "103.238584"
+  },
+  {
+    "name": "Kluang",
+    "lat": "2.033666",
+    "lon": "103.31773"
+  },
+  {
+    "name": "Mengkibol",
+    "lat": "1.975921",
+    "lon": "103.334342"
+  },
+  {
+    "name": "Rengam",
+    "lat": "1.884852",
+    "lon": "103.403207"
+  },
+  {
+    "name": "Layang-Layang",
+    "lat": "1.813828",
+    "lon": "103.475791"
+  },
+  {
+    "name": "SEDENAK",
+    "lat": "1.712253",
+    "lon": "103.522491"
+  },
+  {
+    "name": "Kulai",
+    "lat": "1.663129",
+    "lon": "103.600489"
+  },
+  {
+    "name": "SENAI",
+    "lat": "1.663129",
+    "lon": "103.600489"
+  },
+  {
+    "name": "Kempas Bahru",
+    "lat": "1.535744",
+    "lon": "103.721801"
+  },
+  {
+    "name": "HOLIDAY PLAZA",
+    "lat": "1.488583",
+    "lon": "103.759833"
+  },
+  {
+    "name": "DANGA CITY MALL",
+    "lat": "1.4753",
+    "lon": "103.7548"
+  },
+  {
+    "name": "JB SENTRAL",
+    "lat": "1.463147",
+    "lon": "103.764445"
+  }
+]

@@ -56,7 +56,7 @@ const generate = async () => {
       });
 
       fsFilePairs.push({
-        file: `../src/internalData/${thisStationId}.json`,
+        file: `../public/stations/${thisStationId}.json`,
         content: JSON.stringify(stationJson, null, 2),
       });
 

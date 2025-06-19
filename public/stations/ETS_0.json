@@ -1,0 +1,197 @@
+[
+  {
+    "name": "BUTTERWORTH",
+    "lat": "5.393343",
+    "lon": "100.366201"
+  },
+  {
+    "name": "BUKIT TENGAH",
+    "lat": "5.3646",
+    "lon": "100.42173"
+  },
+  {
+    "name": "BUKIT MERTAJAM",
+    "lat": "5.365998",
+    "lon": "100.447993"
+  },
+  {
+    "name": "SIMPANG AMPAT",
+    "lat": "5.28599",
+    "lon": "100.48097"
+  },
+  {
+    "name": "Nibong Tebal",
+    "lat": "5.16942",
+    "lon": "100.47965"
+  },
+  {
+    "name": "PARIT BUNTAR",
+    "lat": "5.130571",
+    "lon": "100.486575"
+  },
+  {
+    "name": "BAGAN SERAI",
+    "lat": "5.028068",
+    "lon": "100.527197"
+  },
+  {
+    "name": "KAMUNTING",
+    "lat": "4.89589",
+    "lon": "100.7191"
+  },
+  {
+    "name": "Taiping",
+    "lat": "4.852059",
+    "lon": "100.731489"
+  },
+  {
+    "name": "PADANG RENGAS",
+    "lat": "4.777932",
+    "lon": "100.857424"
+  },
+  {
+    "name": "Kuala Kangsar",
+    "lat": "4.776524",
+    "lon": "100.932601"
+  },
+  {
+    "name": "SUNGAI SIPUT",
+    "lat": "4.818757",
+    "lon": "101.071261"
+  },
+  {
+    "name": "CHEMOR",
+    "lat": "4.81887",
+    "lon": "101.0713"
+  },
+  {
+    "name": "TASEK",
+    "lat": "4.65289",
+    "lon": "101.12028"
+  },
+  {
+    "name": "IPOH",
+    "lat": "4.597526",
+    "lon": "101.07333"
+  },
+  {
+    "name": "LAHAT",
+    "lat": "4.54219",
+    "lon": "101.05266"
+  },
+  {
+    "name": "BATU GAJAH",
+    "lat": "4.459894",
+    "lon": "101.0493"
+  },
+  {
+    "name": "KOTA BHARU (PK)",
+    "lat": "4.4026",
+    "lon": "101.07912"
+  },
+  {
+    "name": "KAMPAR",
+    "lat": "4.302787",
+    "lon": "101.153512"
+  },
+  {
+    "name": "TAPAH ROAD",
+    "lat": "4.173861",
+    "lon": "101.189333"
+  },
+  {
+    "name": "SUNGKAI",
+    "lat": "4.006223",
+    "lon": "101.301512"
+  },
+  {
+    "name": "SLIM RIVER",
+    "lat": "3.827134",
+    "lon": "101.402164"
+  },
+  {
+    "name": "BEHRANG",
+    "lat": "3.745477",
+    "lon": "101.450007"
+  },
+  {
+    "name": "TANJUNG MALIM",
+    "lat": "3.685142",
+    "lon": "101.518165"
+  },
+  {
+    "name": "KALUMPANG",
+    "lat": "3.5566",
+    "lon": "101.5612"
+  },
+  {
+    "name": "KUALA KUBU BARU",
+    "lat": "3.553215",
+    "lon": "101.639591"
+  },
+  {
+    "name": "RASA",
+    "lat": "3.500586",
+    "lon": "101.634113"
+  },
+  {
+    "name": "BATANG KALI",
+    "lat": "3.46838",
+    "lon": "101.637759"
+  },
+  {
+    "name": "Serendah",
+    "lat": "3.376172",
+    "lon": "101.614532"
+  },
+  {
+    "name": "RAWANG",
+    "lat": "3.318955",
+    "lon": "101.575012"
+  },
+  {
+    "name": "KUANG",
+    "lat": "3.258267",
+    "lon": "101.554794"
+  },
+  {
+    "name": "SUNGAI BULUH",
+    "lat": "3.206356",
+    "lon": "101.580128"
+  },
+  {
+    "name": "Kepong Sentral",
+    "lat": "3.208653",
+    "lon": "101.62849"
+  },
+  {
+    "name": "KEPONG",
+    "lat": "3.202996",
+    "lon": "101.637381"
+  },
+  {
+    "name": "Segambut",
+    "lat": "3.186514",
+    "lon": "101.664032"
+  },
+  {
+    "name": "Putra",
+    "lat": "3.165399",
+    "lon": "101.691101"
+  },
+  {
+    "name": "Bank Negara",
+    "lat": "3.155105",
+    "lon": "101.693118"
+  },
+  {
+    "name": "KUALA LUMPUR",
+    "lat": "3.139444",
+    "lon": "101.693333"
+  },
+  {
+    "name": "KL SENTRAL",
+    "lat": "3.134167",
+    "lon": "101.686111"
+  }
+]

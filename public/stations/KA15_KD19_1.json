@@ -1,0 +1,82 @@
+[
+  {
+    "name": "KL SENTRAL",
+    "lat": "3.134167",
+    "lon": "101.686111"
+  },
+  {
+    "name": "KUALA LUMPUR",
+    "lat": "3.139444",
+    "lon": "101.693333"
+  },
+  {
+    "name": "Bank Negara",
+    "lat": "3.155105",
+    "lon": "101.693118"
+  },
+  {
+    "name": "Putra",
+    "lat": "3.165399",
+    "lon": "101.691101"
+  },
+  {
+    "name": "Segambut",
+    "lat": "3.186514",
+    "lon": "101.664032"
+  },
+  {
+    "name": "KEPONG",
+    "lat": "3.202996",
+    "lon": "101.637381"
+  },
+  {
+    "name": "Kepong Sentral",
+    "lat": "3.208653",
+    "lon": "101.62849"
+  },
+  {
+    "name": "SUNGAI BULUH",
+    "lat": "3.206356",
+    "lon": "101.580128"
+  },
+  {
+    "name": "KUANG",
+    "lat": "3.258267",
+    "lon": "101.554794"
+  },
+  {
+    "name": "RAWANG",
+    "lat": "3.318955",
+    "lon": "101.575012"
+  },
+  {
+    "name": "Serendah",
+    "lat": "3.376172",
+    "lon": "101.614532"
+  },
+  {
+    "name": "BATANG KALI",
+    "lat": "3.46838",
+    "lon": "101.637759"
+  },
+  {
+    "name": "RASA",
+    "lat": "3.500586",
+    "lon": "101.634113"
+  },
+  {
+    "name": "KUALA KUBU BARU",
+    "lat": "3.553215",
+    "lon": "101.639591"
+  },
+  {
+    "name": "KALUMPANG",
+    "lat": "3.5566",
+    "lon": "101.5612"
+  },
+  {
+    "name": "TANJUNG MALIM",
+    "lat": "3.685142",
+    "lon": "101.518165"
+  }
+]
